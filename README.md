@@ -1,2 +1,3 @@
 # Hello-World
-A basic hello world
+A basic hello world, to help me
+- get started
